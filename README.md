@@ -3,7 +3,7 @@
 self-insert mod if it was awesome
 
 
-plans:
+plans (for the near future):
 
 -dialogue
 
